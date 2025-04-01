@@ -1,4 +1,6 @@
 # Starter Code: To-Do-List Application (Intro to Python)
+This repository contains code from the live-lesson covering the module project (To-Do-List Application) for the Intro to Python module.
+<br>It also contains some additional coding examples that should be helpful to you when you attempt to complete this project.
 
 ## File Structure
 The ``/examples`` folder just contains some basic examples about how to work with lists in Python.
