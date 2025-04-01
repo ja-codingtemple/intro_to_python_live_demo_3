@@ -2,8 +2,7 @@
 
 # File Structure
 The ``/examples`` folder just contains some basic examples about how to work with lists in Python.
-
-The ``to_do_list.py`` file is where the starter code is for your to-do-list application.
+<br>The ``to_do_list.py`` file is where the starter code is for your to-do-list application.
 
 # Reminders / Hints
 Remember to implement the ``view_task()`` and ``delete_task()`` functions.
